@@ -9,5 +9,9 @@ After forking this repository, you can make some changes to the project, and sub
 For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
 
 ==============
-lunardidi13: testing branch create and merge pull req.
+lunardidi13
 ==============
+- Create branch new-branch from git bash 
+$ git branch // to show list of branch
+$ git branch new-branch // to create new branch new-branch
+$ git checkout new-branch // to switch to branch new-branch
