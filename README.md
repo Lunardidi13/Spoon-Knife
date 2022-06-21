@@ -12,6 +12,9 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 lunardidi13
 ==============
 - Create branch new-branch from git bash 
+
 $ git branch // to show list of branch
+
 $ git branch new-branch // to create new branch new-branch
+
 $ git checkout new-branch // to switch to branch new-branch
